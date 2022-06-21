@@ -1,2 +1,2 @@
 # testdocs
-https://zatta.link/web/docusaurus-how-to.html
+https://azure-plus-dev.github.io/testdocs/
