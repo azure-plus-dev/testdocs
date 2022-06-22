@@ -3,6 +3,9 @@
  * Your edits in this file will be overwritten in the next build!
  * Modify the docusaurus.config.js file at your site's root instead.
  */
+// If you are using dotenv (https://www.npmjs.com/package/dotenv)
+require('dotenv').config();
+
 module.exports = {
   "title": "AZP TEST Document",
   "tagline": "yahoo!",
