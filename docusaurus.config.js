@@ -11,8 +11,8 @@ export default {
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
-  "organizationName": "testdocs",
-  "projectName": "azure-plus-dev",
+  "organizationName": "azure-plus-dev",
+  "projectName": "testdocs",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
