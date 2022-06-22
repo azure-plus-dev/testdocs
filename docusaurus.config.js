@@ -12,7 +12,7 @@ export default {
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
   "organizationName": "azure-plus-dev",
-  "projectName": "testdocs",
+  "projectName": "testdocs.github.io",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
