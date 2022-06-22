@@ -3,16 +3,17 @@
  * Your edits in this file will be overwritten in the next build!
  * Modify the docusaurus.config.js file at your site's root instead.
  */
-export default {
+module.exports = {
   "title": "AZP TEST Document",
   "tagline": "yahoo!",
   "url": "https://azure-plus-dev.github.io/",
-  "baseUrl": "/",
+  "baseUrl": "/testdocs/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
   "organizationName": "azure-plus-dev",
-  "projectName": "azure-plus-dev.github.io/testdocs",
+  // "projectName": "azure-plus-dev.github.io/testdocs",
+  "projectName": "testdocs",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
