@@ -6,8 +6,7 @@
 export default {
   "title": "AZP TEST Document",
   "tagline": "yahoo!",
-  // "url": "https://azure-plus-dev.github.io/",
-  "url": "https://github.com/azure-plus-dev/testdocs/tree/gh-pages",
+  "url": "https://azure-plus-dev.github.io/testdocs/",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
